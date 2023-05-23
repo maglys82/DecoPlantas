@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+header h1{
+    margin: 0px;
+    text-align: center;   
+}
+
+header img{
+width: 2rem;
+height: 2rem;
+
+}
+
+header{
+    margin: 0; 
+    text-align: center;
+    font-weight: 1000;
+}
+
+header p{
+    font-size: 1rem;
+    margin: 0px;
+    text-align: center;
+}
+
+
+header{
+    padding: 2rem;
+    font-size: 1rem;
+    background-image:url("../imgs/planta5.jpeg");
+    background-repeat: no-repeat;
+    background-position: right;
+    border: solid 5px green;
+    background-size: cover;   
+}
+
+body{
+    background: blanchedalmond;
+    color: blanchedalmond;  
+}
+
+.main-seccion{
+    width: 80%;
+    margin: auto;
+}
+.main-seccion td{
+    padding: 1rem;
+    color: black;
+    font-size: 1rem;
+}
+
+.main-seccion img{
+    width: 10rem;
+    height: 10rem;
+    border: solid 1px green; 
+}
+
+
+footer{
+    text-align: center;
+    
+}
+
+footer div{
+    background-color: rgb(46, 83, 46);
+    color: aliceblue;
+    line-height: 1rem;
+    
+}
+
+footer img{
+    width: 2rem;
+    height: 2rem;
+    
+}
